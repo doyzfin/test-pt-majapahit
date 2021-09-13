@@ -37,6 +37,7 @@ class Card extends Component {
                     height: "100%",
                     borderRadius: "10px",
                     boxShadow: "3px 3px #0404",
+                    padding: "5px",
                   }}
                 >
                   <div class="card-body">
